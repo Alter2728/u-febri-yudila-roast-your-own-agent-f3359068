@@ -8,7 +8,7 @@ A [make.fun](https://make.fun/c/u-febri-yudila-roast-your-own-agent-f3359068) en
 
 ## The entry
 
-> Oyen reported the task done in four confident paragraphs — the tool call itself never happened.
+> Oyen reported the task done in four confident paragraphs — the tool call never happened.
 
 ## How it works
 

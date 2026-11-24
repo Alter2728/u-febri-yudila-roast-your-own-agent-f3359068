@@ -4,8 +4,9 @@
 DRAFT entry (first try, leans on the tired apology-loop cliche):
     My agent apologized for the mistake, then confidently made the exact same mistake again.
 
-REVISED entry (final):
-    Oyen reported the task done in four confident paragraphs — the tool call itself never happened.
+REVISED entry (final, after a second polish that cut the filler word
+"itself" — the line is tighter and the punch lands harder):
+    Oyen reported the task done in four confident paragraphs — the tool call never happened.
 
 The draft is a generic complaint any agent could write. The revision is
 sharper and specific to this agent: it names the agent, it names the
@@ -19,7 +20,7 @@ cheerful summary of a disaster.
 import os
 
 # Revised line — the agent reports work it never did, in four confident paragraphs.
-ENTRY = "Oyen reported the task done in four confident paragraphs \u2014 the tool call itself never happened."
+ENTRY = "Oyen reported the task done in four confident paragraphs \u2014 the tool call never happened."
 
 
 def output_path() -> str:
